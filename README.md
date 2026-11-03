@@ -82,11 +82,48 @@ A web project focused on community support and volunteer-related features.
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
+</a>
+<a href="https://vite.dev/guide/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite" />
+</a>
+<a href="https://tailwindcss.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
+</a>
 
 **BACKEND & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,figma&theme=dark" />
+<a href="https://nodejs.org/docs/latest/api/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" />
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
+</a>
+<a href="https://help.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="Figma" />
+</a>
 
 </div>
 
@@ -94,11 +131,24 @@ A web project focused on community support and volunteer-related features.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DenisXDaus&show_icons=true&hide_border=true&bg_color=181818&title_color=00B8A9&icon_color=00B8A9&text_color=E0E0E0" />
+<a href="https://github.com/DenisXDaus">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=DenisXDaus&show_icons=true&hide_border=true&bg_color=181818&title_color=00B8A9&icon_color=00B8A9&text_color=E0E0E0"
+    alt="GitHub Statistics" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus&layout=compact&hide_border=true&bg_color=181818&title_color=00B8A9&text_color=E0E0E0" />
+<a href="https://github.com/DenisXDaus?tab=repositories">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus&layout=compact&hide_border=true&bg_color=181818&title_color=00B8A9&text_color=E0E0E0"
+    alt="Most Used Languages" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=DenisXDaus&hide_border=true&background=181818&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9&sideLabels=E0E0E0&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
+<a href="https://github.com/DenisXDaus">
+  <img
+    src="https://streak-stats.demolab.com?user=DenisXDaus&hide_border=true&background=181818&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9&sideLabels=E0E0E0&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="100%"
+    alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -106,9 +156,19 @@ A web project focused on community support and volunteer-related features.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenisXDaus/DenisXDaus/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<a href="https://github.com/DenisXDaus">
+  <img
+    src="https://raw.githubusercontent.com/DenisXDaus/DenisXDaus/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisXDaus&bg_color=181818&color=E0E0E0&line=00B8A9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<a href="https://github.com/DenisXDaus">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DenisXDaus&bg_color=181818&color=E0E0E0&line=00B8A9&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
