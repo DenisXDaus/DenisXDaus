@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis
+# 👋 Hi, I'm Denis Firdaus
 
 <div align="center">
 
