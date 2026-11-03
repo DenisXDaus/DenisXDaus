@@ -14,7 +14,7 @@ Turning ideas into impactful digital experiences.
 \
 
 
-\</div>
+</div>
 
 ---
 
@@ -86,13 +86,13 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
 <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=DenisXDaus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=DenisXDaus\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Stats" />
 
 <img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" />
 
-<br/>\<br/>
+<br/><br/>
 
 <img width="80%" src="[https://streak-stats.demolab.com?user=DenisXDaus&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=DenisXDaus\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
 
