@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Denis Firdaus
+=======
+# 👋 Hi, I'm Denis Firdaus
+>>>>>>> 890ce99d8add8a964ce7ba98dd96a17bd731de18
 
 <div align="center">
 
