@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181818&height=180&section=header&text=DENIS&FIRDAUS&fontSize=65&fontColor=F0F0F0&fontAlignY=40&animation=twinkling" width="100%" alt="Denis Firdaus Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=181818&height=180&section=header&text=DENISFIRDAUS&fontSize=65&fontColor=F0F0F0&fontAlignY=40&animation=twinkling" width="100%" alt="Denis Firdaus Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00B8A9&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Vite;Node.js+%7C+Express.js;Building+Digital+Experiences" alt="Typing Animation"/>
 
