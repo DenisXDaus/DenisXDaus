@@ -1,124 +1,134 @@
-# 👋 Hi, I'm Denis
+# Denis Firdaus
 
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Denis - Fullstack Developer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=181818&height=180&section=header&text=DENIS&fontSize=65&fontColor=F0F0F0&fontAlignY=40&animation=twinkling" width="100%" alt="Denis Header"/>
 
-### 💻 Fullstack Developer | Creative Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00B8A9&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Vite;Node.js+%7C+Express.js;Building+Digital+Experiences" alt="Typing Animation"/>
 
-**Build • Code • Innovate**
+<br/>
 
-Turning ideas into impactful digital experiences.
-
-
-\
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181818?style=for-the-badge&logo=vercel&logoColor=00B8A9)](https://portofolio-denis.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenisXDaus)
+[![Email](https://img.shields.io/badge/EMAIL-181818?style=for-the-badge&logo=gmail&logoColor=00B8A9)](mailto:denisfirdaus2008@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ABOUT ME
 
-Hi! I'm Denis, a Fullstack Developer passionate about building modern, responsive, and user-friendly web applications.
+I'm Denis, a Fullstack Developer interested in building modern, functional, and user-friendly web applications.
 
-- 💻 Focused on Frontend & Backend Development.
-- ⚡ Building web applications with React and TypeScript.
+- 💻 Building frontend applications with React and TypeScript.
+- ⚙️ Exploring backend development with Node.js and Express.js.
 - 🎨 Interested in UI/UX and creative web experiences.
-- 🔧 Exploring backend development with Node.js and Express.js.
-- 🌱 Continuously learning and exploring new technologies.
-- 🚀 Turning ideas into functional digital products.
+- 🌱 Always learning and improving my development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## TECH STACK
 
-### Frontend
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,git,github,vscode,figma&theme=dark" alt="Technology Stack"/>
 
-
-
-
-
-\
-
-
-### Backend
-
-\
-
-
-### Tools & Platforms
-
-
-
-\
-
+</div>
 
 ---
 
-## 💻 Featured Projects
+## FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🌱 EcoQuest
 
-A gamified waste management and recycling platform that encourages people to develop environmentally friendly habits.
+Gamified waste management and recycling platform.
 
-- **Focus:** Environmental awareness, gamification, and community.
-- **Tech:** React, TypeScript, Tailwind CSS.
-- **Live Demo:** [ecoquest-delta.vercel.app](https://ecoquest-delta.vercel.app/)
-- **Repository:** [dafzX/ecoquest](https://github.com/dafzX/ecoquest)
+**Stack:** React, TypeScript, Tailwind CSS.
+
+[Live Demo](https://ecoquest-delta.vercel.app/)
+
+[Source Code](https://github.com/dafzX/ecoquest)
+
+</td>
+<td width="50%">
 
 ### ☕ Admin Menu Cafe
 
-A web-based cafe management dashboard designed to simplify daily operations.
+Web-based cafe management dashboard.
 
-- **Features:** Menu Management, Categories, Orders, Reports.
-- **Tech:** React, TypeScript, Tailwind CSS.
+**Features:**
+- Menu management
+- Categories
+- Orders
+- Reports
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio showcasing my projects, skills, and development journey.
+Personal website showcasing my development journey.
 
-- **Tech:** React, TypeScript, Tailwind CSS.
-- **Live Demo:** [portofolio-denis.vercel.app](https://portofolio-denis.vercel.app/)
+[Visit Website](https://portofolio-denis.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🛡️ KitaSiaga
+
+Emergency response and community support platform.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=DenisXDaus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=DenisXDaus\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DenisXDaus&show_icons=true&theme=dark&bg_color=181818&title_color=00B8A9&icon_color=00B8A9&text_color=E5E5E5&hide_border=true" alt="GitHub Stats"/>
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisXDaus&layout=compact&theme=dark&bg_color=181818&title_color=00B8A9&text_color=E5E5E5&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="80%" src="[https://streak-stats.demolab.com?user=DenisXDaus&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=DenisXDaus\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=DenisXDaus&theme=dark&background=181818&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DenisXDaus&bg_color=181818&color=E5E5E5&line=00B8A9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
 
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DenisXDaus/DenisXDaus/output/github-snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## CONNECT WITH ME
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-181818?style=for-the-badge&logo=vercel&logoColor=00B8A9)](https://portofolio-denis.vercel.app/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenisXDaus)
 
-
-
-
+[![Email](https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=00B8A9)](mailto:denisfirdaus2008@gmail.com)
 
 </div>
 
@@ -126,8 +136,8 @@ My personal portfolio showcasing my projects, skills, and development journey.
 
 <div align="center">
 
-### ✨ Building things for the web, one commit at a time.
+**BUILD. CODE. CREATE.**
 
-*Always learning. Always building. Always improving.* 🚀
+<sub>Always learning, always building.</sub>
 
 </div>
